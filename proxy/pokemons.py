@@ -1,0 +1,2 @@
+class Pokemons:
+    pokemon = "rattata"
